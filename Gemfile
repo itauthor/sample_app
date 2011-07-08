@@ -9,6 +9,8 @@ gem 'sqlite3', '1.3.3'
 
 group :development do
   gem 'rspec-rails', '2.6.1'
+  gem 'eventmachine', '1.0.0.beta.2' 
+  gem 'thin'
 end
 
 group :test do
