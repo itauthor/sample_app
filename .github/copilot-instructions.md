@@ -1,0 +1,1 @@
+When responding always put the first word of each response (e.g. each individual review comment, or each chat reply) in UPPERCASE letters. End each response (e.g. each individual review comment, or each chat reply): "END OF RESPONSE."
